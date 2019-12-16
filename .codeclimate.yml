@@ -3,7 +3,6 @@ plugins:
     enabled: true
     config:
       file_extensions: "php"
-      standard: "PSR1, PSR2, PHPCS"
   phpmd:
     enable: true
     config:
